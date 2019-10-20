@@ -1,0 +1,14 @@
+D:\Programs\My Projects\C#\Snake\Snake\bin\Debug\Snake.exe.config
+D:\Programs\My Projects\C#\Snake\Snake\bin\Debug\Snake.exe
+D:\Programs\My Projects\C#\Snake\Snake\bin\Debug\Snake.pdb
+D:\Programs\My Projects\C#\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\Programs\My Projects\C#\Snake\Snake\obj\Debug\MainWindow.g.cs
+D:\Programs\My Projects\C#\Snake\Snake\obj\Debug\App.g.cs
+D:\Programs\My Projects\C#\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+D:\Programs\My Projects\C#\Snake\Snake\obj\Debug\Snake_MarkupCompile.lref
+D:\Programs\My Projects\C#\Snake\Snake\obj\Debug\MainWindow.baml
+D:\Programs\My Projects\C#\Snake\Snake\obj\Debug\Snake.g.resources
+D:\Programs\My Projects\C#\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\Programs\My Projects\C#\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+D:\Programs\My Projects\C#\Snake\Snake\obj\Debug\Snake.exe
+D:\Programs\My Projects\C#\Snake\Snake\obj\Debug\Snake.pdb

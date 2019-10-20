@@ -1,0 +1,15 @@
+﻿<Window x:Name="mainWindow" x:Class="Snake.MainWindow" KeyDown="RectKeyDown"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Snake"
+        mc:Ignorable="d"
+        Title="Snake"  WindowStartupLocation="CenterScreen">
+    <Canvas x:Name="myBase" Background="Green">
+        <Border x:Name="gameAreaBorder" BorderBrush="Black" Background="Gray" >
+            <Canvas x:Name="gameArea" HorizontalAlignment="Left" VerticalAlignment="Top" ClipToBounds="True">
+            </Canvas>
+        </Border>
+    </Canvas>
+</Window>

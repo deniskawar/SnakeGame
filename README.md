@@ -1,3 +1,3 @@
 # SnakeGame
-Змейка на WPF <br>
+Змейка на WPF 
 R-Restart

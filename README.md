@@ -1,3 +1,2 @@
 # SnakeGame
-SnakeGame
 R-Restart
